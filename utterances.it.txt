@@ -265,6 +265,7 @@ AddonGlobalSearch (trova/cerca) {Show}
 AddonGlobalSearch (trova/cerca) {Movie}
 AddonGlobalSearch (trova/cerca) {Album}
 AddonGlobalSearch (trova/cerca) {Artist}
+AddonGlobalSearch (trova/cerca) {Song}
 
 AMAZON.HelpIntent cosa (puoi fare/posso chiederti)
 AMAZON.HelpIntent cose da provare
